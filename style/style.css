@@ -21,3 +21,7 @@ table {
 .navigation {
   width:150px;
 }
+body {
+  background-image:url(../image/bg.png);
+  height: auto;
+} 

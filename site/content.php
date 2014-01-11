@@ -1,7 +1,7 @@
 <table class="aufbau" width="100%">
   <tr>
     <td colspan="2">
-      BANNER
+		<img src="image/banner.png">
     </td>
   </tr>
   <tr>
