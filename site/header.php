@@ -14,5 +14,3 @@
             <table class="inhalt" height="800" width="650">
               <tr>
                 <td>
-                  aaa
-
