@@ -13,7 +13,7 @@
       if ($data[4]==1) {
         echo 'Handgemacht&nbsp;&nbsp;';
       }
-      echo '</td><td>'.$data[3].'&nbsp;Euro</td></tr>';
+      echo '</td><td class="preise">'.$data[3].'&nbsp;Euro</td></tr>';
       if ($data[2]!="") {
         echo '<tr><td colspan="2"><i>'.$data[2].'</i></td><td></td></tr>';
       }
