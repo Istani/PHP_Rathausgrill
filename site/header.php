@@ -12,6 +12,6 @@
         <td>
           <br>
           <div id="tabs" class="ui-tabs ui-widget ui-widget-content ui-corner-all">
-            <table class="inhalt" height="800" width="650">
+            <table class="inhalt" width="650">
               <tr>
                 <td>

@@ -15,7 +15,8 @@
   </tr>
   <tr>
     <td colspan="2">
-      FOOT
+      <img src="image/footer.png">
+	  <a href="index.php?seite=impressum">Impressum</a><br>
     </td>
   </tr>
 </table>
