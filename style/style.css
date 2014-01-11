@@ -9,6 +9,11 @@
 table {
   vertical-align: top;
 }
+div {
+  -moz-box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+  -webkit-box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+}
 .seite, .seite tr td {
   vertical-align: middle;
   height: 100%;
