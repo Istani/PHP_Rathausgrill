@@ -1,3 +1,9 @@
+<?php
+  if (!isset($_GET['seite'])) {
+    $_GET['seite']="start";
+  }
+?>
+
 <table class="aufbau" width="100%">
   <tr>
     <td colspan="2">
