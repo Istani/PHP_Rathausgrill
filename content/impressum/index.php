@@ -1,7 +1,7 @@
 <h1>Impressum</h1>
 <br>
 Angaben gemäß § 5 TMG:<br><br>
-Mister X<br>
+Aglaia Vafiadis<br>
 Hauptstraße 80<br>
 53819 Neunkirchen-Seelscheid<br>
 <br>
