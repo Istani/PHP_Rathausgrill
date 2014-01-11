@@ -9,7 +9,7 @@
         include("navigation.php");
       ?>
     </td>
-    <td><?php
+    <td class="content"><?php
         include("content/index.php");
       ?></td>
   </tr>

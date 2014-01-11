@@ -71,3 +71,9 @@ h2 {
 .ui-tabs {
   padding: 0px !important;
 }
+.speise, .speise td {
+  padding-top: 10px;
+}
+.content {
+  padding-right: 10px;
+}

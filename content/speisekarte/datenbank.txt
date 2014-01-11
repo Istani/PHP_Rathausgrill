@@ -11,7 +11,7 @@ Frische Salate;Choriatiki;großer griechischer Bauernsalat nach Art des Hauses;8
 Frische Salate;Chefsalat;... mit Ei, Käse und Thunfisch;8,00;0
 Frische Salate;Salatplatte;... mit Puttenstreifen, Croutons und Balsamico;8,00;0
 Frische Salate;Salatplatte;... mit Gyros;8,00;0
-Schnellgerichte;Schaschlik;;4,00;0
+Schnellgerichte;Schaschlik;;4,00;1
 Schnellgerichte;Bratwurst;;2,10;0
 Schnellgerichte;Currywurst;;2,50;0
 Schnellgerichte;Jägerwurst;;2,50;0
