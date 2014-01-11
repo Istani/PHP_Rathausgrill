@@ -11,7 +11,7 @@
       }
       echo '<tr class="speise"><td width="100%">'.$data[1].'</td><td>';
       if ($data[4]==1) {
-        echo 'Handgemacht&nbsp;&nbsp;';
+        echo '<img src="image/selbstgemacht.gif">&nbsp;&nbsp;';
       }
       echo '</td><td class="preise">'.$data[3].'&nbsp;Euro</td></tr>';
       if ($data[2]!="") {
