@@ -1,0 +1,20 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family:arial, Geneva, sans-serif;
+  font-size: 12px;
+  vertical-align:top;
+  border-collapse:collapse;
+}
+table {
+  vertical-align: top;
+}
+.seite, .seite tr td {
+  vertical-align: middle;
+  height: 100%;
+  border: 0;
+  margin: 0 auto;
+}
+.inhalt, .inhalt tr td {
+  vertical-align: top;
+}
