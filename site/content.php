@@ -25,7 +25,7 @@
         <a href="index.php?seite=impressum">Impressum</a><br>
       </p>
       <p class="footer_text">
-        Alexander Amling & Sascha Kaufmann
+       © Alexander Amling & Sascha Kaufmann
       </p>
     </td>
   </tr>
