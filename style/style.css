@@ -50,3 +50,24 @@ h2 {
   font-weight: bold;
   padding-top: 20px;
 }
+
+.footer {
+  background-image: url(../image/footer.png);
+  height: 100px !important;
+}
+.footer_impressum {
+  padding-top: 20px;
+  padding-left: 570px;
+}
+.footer_text {
+  padding-top: 45px;
+  text-align:center;
+  vertical-align:bottom;
+}
+
+.ui-widget-content {
+  border: 0px !important;
+}
+.ui-tabs {
+  padding: 0px !important;
+}
