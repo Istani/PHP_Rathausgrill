@@ -1,4 +1,4 @@
-<table class="aufbau">
+<table class="aufbau" width="100%">
   <tr>
     <td colspan="2">
       BANNER

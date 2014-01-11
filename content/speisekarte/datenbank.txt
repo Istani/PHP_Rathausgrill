@@ -1,0 +1,32 @@
+Vorspeisen;Dolmadakia;Weinblätter, gefüllt mit Reis;4,50;0
+Vorspeisen;Tzatziki;Quarkspeise mit Knoblauch;3,00;1
+Vorspeisen;Gigantes;Riesenbohnen in Soße;4,50;0
+Vorspeisen;Oliven oder Peperoni;;3,00;0
+Vorspeisen;Feta;Griechischer Schafskäse;4,90;0
+Vorspeisen;Saganaki;Schafskäse mit Kräutern überbacken;5,20;0
+Frische Salate;Gemischter Salat (klein);;2,70;0
+Frische Salate;Gemischter Salat (groß);;5,30;0
+Frische Salate;Salatplatte;großer Salatteller mit Ei;6,00;0
+Frische Salate;Choriatiki;großer griechischer Bauernsalat nach Art des Hauses;8,00;0
+Frische Salate;Chefsalat;... mit Ei, Käse und Thunfisch;8,00;0
+Frische Salate;Salatplatte;... mit Puttenstreifen, Croutons und Balsamico;8,00;0
+Frische Salate;Salatplatte;... mit Gyros;8,00;0
+Schnellgerichte;Schaschlik;;4,00;0
+Schnellgerichte;Bratwurst;;2,10;0
+Schnellgerichte;Currywurst;;2,50;0
+Schnellgerichte;Jägerwurst;;2,50;0
+Schnellgerichte;Zigeunerwurst;;2,50;0
+Schnellgerichte;Frikadelle;;1,60;0
+Schnellgerichte;Pommes-Frites (klein);;1,60;0
+Schnellgerichte;Pommes-Frites (groß);;2,20;0
+Schnellgerichte;Kroketten (8 Stk.);;2,50;0
+Soßen;Salat-Mayonnaise;;0,50;0
+Soßen;Curry-Ketchup;;0,50;0
+Soßen;Tomaten-Ketchup;;0,50;0
+Soßen;Zigeunersoße;;0,50;0
+Soßen;Jägersoße;;0,60;0
+Grillspezialitäten;Gyros (Spezialität des Hauses);portion Fleisch;5,90;1
+Grillspezialitäten;Gyros;mit einer Beilage;7,50;1
+Grillspezialitäten;Gyros;mit zwei Beilagen;7,80;1
+Grillspezialitäten;Gyros;mit Tzatziki, Pommes-Frites (oder Reis) und Salat;8,00;1
+Grillspezialitäten;Pita;;4,20;0
