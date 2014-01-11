@@ -23,6 +23,8 @@ table {
 }
 body {
   background-image:url(../image/bg.png);
+  background-attachment:fixed;
+  background-repeat:repeat-x;
   height: auto;
 }
 div {
