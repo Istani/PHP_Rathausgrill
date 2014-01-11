@@ -12,7 +12,9 @@
       Mo-Fr: 11:00 - 23:00 Uhr<br>
       Sa: 13:00 - 2:00 Uhr<br>
     </td>
-    <td>Content</td>
+    <td><?php
+        include("content/index.php");
+      ?></td>
   </tr>
   <tr>
     <td colspan="2">
