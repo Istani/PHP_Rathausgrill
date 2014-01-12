@@ -1,15 +1,15 @@
 <h1>Impressum</h1>
 <br>
 Angaben gemäß § 5 TMG:<br><br>
-Aglaia Vafiadis<br>
+<b>Aglaia Vafiadis</b><br>
 Hauptstraße 80<br>
 53819 Neunkirchen-Seelscheid<br>
 <br>
-Kontakt:<br>
+<b>Kontakt:</b><br>
 Telefon: 02247 2321<br>
 <br>
-Diese Internetpräsenz wurde erstellt von:<br>
-Alexander Amling (RebornIkarus@gmail.com) und Sascha Kaufmann (Sascha.U.Kaufmann@gmail.com)<br>
+<b>Diese Internetpräsenz wurde erstellt von:</b><br>
+Alexander Amling (AlexanderAmling@gmail.com) und <br>Sascha Kaufmann (Sascha.U.Kaufmann@gmail.com)<br>
 <br>
 <br>
 <br>

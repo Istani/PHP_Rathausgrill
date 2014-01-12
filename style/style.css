@@ -2,7 +2,7 @@
   padding: 0px;
   margin: 0px;
   font-family:arial, Geneva, sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   color: grey;
   vertical-align:top;
   border-collapse:collapse;
@@ -60,8 +60,8 @@ h2 {
   height: 100px !important;
 }
 .footer_impressum {
-  padding-top: 50px;
-  padding-left: 590px;
+  padding-top: 45px;
+  padding-left: 580px;
 }
 .footer_impressum a {
 color: #ffffff;
