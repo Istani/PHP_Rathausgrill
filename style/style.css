@@ -2,7 +2,7 @@
   padding: 0px;
   margin: 0px;
   font-family:arial, Geneva, sans-serif;
-  font-size: 12px;
+  font-size: 14px;
   color: grey;
   vertical-align:top;
   border-collapse:collapse;
@@ -34,6 +34,7 @@ body {
   background-attachment:fixed;
   background-repeat:repeat-x;
   height: auto;
+  overflow:scroll;
 }
 div {
   -moz-box-shadow: 0 4px 8px rgba(0,0,0,0.5);
@@ -62,10 +63,14 @@ h2 {
   padding-top: 50px;
   padding-left: 590px;
 }
+.footer_impressum a {
+color: #ffffff;
+}
 .footer_text {
-  padding-top: 15px;
+  padding-top: 10px;
   text-align:center;
   vertical-align:bottom;
+  color: #ffffff;
 }
 
 .ui-widget-content {
