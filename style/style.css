@@ -92,5 +92,5 @@ h2 {
 
 .preise {
   font-weight: bolder;
-  color: black;
+  color: black !important;
 }
